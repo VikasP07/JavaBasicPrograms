@@ -9,6 +9,7 @@ public class ArmstrongNumber {
         System.out.print("Enter the number to check armstrong or not: ");
 
         int n = sc.nextInt();
+        
         int originalNumber = n;
         int result = 0;
         int remender;
